@@ -81,3 +81,29 @@ static void ASDHJGASD(int[]T)
         n--;
     } while (zamiana);
 }
+
+void CoctailSort(int[] Ciąg)
+{
+    int temporary = 0;
+    for (int j = 0; j < Ciąg.Length - 1; j++)
+    {
+        for (int i = 0; i < Ciąg.Length-1; i++)
+        {
+            if(Ciąg[i] > Ciąg[i+1])
+            {
+                temporary = Ciąg[i];
+                Ciąg[i] = Ciąg[i+1];
+                Ciąg[i+1] = temporary;
+            }
+        }
+        for (int i = Ciąg.Length-1; i > 0; i--)
+        {
+            if(Ciąg[i] < Ciąg[i-1])
+            {
+                temporary = Ciąg[i];
+                Ciąg[i] = Ciąg[i-1];
+                Ciąg[i-1] = temporary;
+            }
+        }
+    }
+}
