@@ -124,3 +124,39 @@ foreach(int number in tab)
 {
     Console.WriteLine(number);
 }
+
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] x = { 5, 4, 2, 1, 3 };
+
+        BubbleSort(x);
+
+        foreach (int t in x)
+        {
+            Console.Write(t);
+        }
+
+        Console.ReadLine();
+    }
+
+    static void BubbleSort(int[] x)
+    {
+        for (int i = 0; i < x.Length - 1; i++)
+        {
+            for (int j = 0; j < x.Length - i - 1; j++)
+            {
+                if (x[j] > x[j + 1])
+                {
+                    int temp = x[j];
+                    x[j] = x[j + 1];
+                    x[j + 1] = temp;
+                }
+            }
+        }
+    }
+}
