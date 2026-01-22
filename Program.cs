@@ -59,3 +59,25 @@ for(int i=0; i< t.Length; i++)
 {
     Console.WriteLine(t[i] +"");
 }
+
+static void ASDHJGASD(int[]T)
+{
+    int n = T.Length;
+    bool zamiana;
+
+    do
+    {
+        zamiana = false;
+        for (int i = 0; i < n - 1; i++)
+        {
+            if (T[i] > T[i + 1])
+            {
+                int tmp = T[i];
+                T[i] = T[i + 1];
+                T[i + 1] = tmp;
+                zamiana = true;
+            }
+        }
+        n--;
+    } while (zamiana);
+}
