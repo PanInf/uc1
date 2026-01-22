@@ -107,3 +107,20 @@ void CoctailSort(int[] Ciąg)
         }
     }
 }
+
+int[] tab = {1, 5, 2, 8, 3};
+
+for(int i  = 0; i < tab.Length; i++)
+{
+    for(int j = 0; j < tab.Length; j++)
+    {
+        if (tab[j] > tab[j + 1])
+        {
+            (tab[j], tab[j+1]) = (tab[j+1], tab[j]);
+        }
+    }
+}
+foreach(int number in tab)
+{
+    Console.WriteLine(number);
+}
