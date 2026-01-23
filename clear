@@ -1,0 +1,117 @@
+[33mcommit c2eb799d7a6356ce44709d5ae7255ec259ef6a0b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a95dda9 c2d49b7
+Author: lfezeq <jakasosoba.4@gmail.com>
+Date:   Fri Jan 23 11:45:49 2026 +0100
+
+    Merge branch 'main' of https://github.com/PanInf/uc1
+
+[33mcommit c2d49b7325ee90489e4dd032f7622cd98c7126c8[m
+Author: MaoZedong112 <alexxxb200@gmail.com.com>
+Date:   Fri Jan 23 11:57:09 2026 +0100
+
+    Israel
+
+[33mcommit 19b54cf66af4117cec4dd4e9741d012bf02c6f78[m
+Author: Mosin-cmd <violetassasin2000@gmail.com>
+Date:   Fri Jan 23 11:54:46 2026 +0100
+
+    EFN
+
+[33mcommit 0a72bcb66a9365e9c69fe5fd58882852fb79a541[m
+Author: Mosin-cmd <violetassasin2000@gmail.com>
+Date:   Fri Jan 23 11:52:08 2026 +0100
+
+    iLoveGooning - modified
+
+[33mcommit b40b2bf2c23122ad8ed316c5ee2abf15787b9686[m
+Author: Mosin-cmd <violetassasin2000@gmail.com>
+Date:   Fri Jan 23 11:50:21 2026 +0100
+
+    iLoveGooning
+
+[33mcommit 1af455c7cea12a7adfd3a5e3b1ec64d8c3c9e4a4[m
+Author: MaoZedong112 <alexxxb200@gmail.com.com>
+Date:   Fri Jan 23 11:46:55 2026 +0100
+
+    wywalenie test111.txt
+
+[33mcommit a95dda9f31f8ac92b587b4c2c498853561006650[m
+Merge: 8e66316 19b54cf
+Author: lfezeq <jakasosoba.4@gmail.com>
+Date:   Fri Jan 23 11:43:40 2026 +0100
+
+    Merge branch 'main' of https://github.com/PanInf/uc1
+
+[33mcommit 8e663165c0ef2e657c31288794e9077775c157b3[m
+Author: lfezeq <jakasosoba.4@gmail.com>
+Date:   Fri Jan 23 11:38:30 2026 +0100
+
+    dodano ilovegooning.txt
+
+[33mcommit a36f8f937978dcc4bfc542966bbdaddb261f5a5a[m
+Author: MaoZedong112 <alexxxb200@gmail.com>
+Date:   Thu Jan 22 15:03:48 2026 +0100
+
+    aaaaaaaa
+
+[33mcommit c3f6ccd08843ed1139425cfaf67504d0c8f01fb6[m
+Author: Marxi27 <marioskz81@gmail.com>
+Date:   Thu Jan 22 14:42:00 2026 +0100
+
+    commit
+
+[33mcommit 1471fcd9da4a83a249c49b460ed6b5631f0954cd[m
+Author: lfezeq <thedestruktor1337@gmail.com>
+Date:   Thu Jan 22 13:07:42 2026 +0100
+
+    Update Program.cs
+
+[33mcommit e593cef7f9e55b32dc26f285d30fdc3b4aa3d5fe[m
+Author: Maksim <144340235+Maksimtsa@users.noreply.github.com>
+Date:   Thu Jan 22 13:06:11 2026 +0100
+
+    Add bubble sort implementation for array sorting
+    
+    Implement bubble sort algorithm to sort an array and print the sorted numbers.
+
+[33mcommit 938168d7cb315a9a590c1f46534862841eafc563[m
+Author: Marxi27 <157636379+Marxi27@users.noreply.github.com>
+Date:   Thu Jan 22 13:05:18 2026 +0100
+
+    Implement Cocktail Sort algorithm in Program.cs
+    
+    wow
+
+[33mcommit ca19c9d993dc38fd863b7f4a573a6d2c400fd2cd[m
+Author: Taisiia Roditelieva <114559221+MCDream3@users.noreply.github.com>
+Date:   Thu Jan 22 13:05:00 2026 +0100
+
+    dodano algorytm
+
+[33mcommit 79bdc8df0a4ce4e5fe22786d2bd329d54bae9db0[m
+Author: sofiaprovilska <mythec93@gmail.com>
+Date:   Thu Jan 22 13:04:28 2026 +0100
+
+    Add bubble sort implementation in Program.cs
+    
+    Implemented bubble sort algorithm to sort an array.
+
+[33mcommit dd398e32e9e59da0b7c28356ed0287bb548689f8[m
+Author: MaoZedong112 <alexxxb200@gmail.com>
+Date:   Thu Jan 22 13:04:08 2026 +0100
+
+    Update Program.cs
+
+[33mcommit 29b7fead45d2bfb4ad5c001c448faef52e59e77d[m
+Author: Mosin-cmd <violetassasin2000@gmail.com>
+Date:   Thu Jan 22 16:03:36 2026 +0400
+
+    Update Program.cs
+
+[33mcommit 380453deb402098bf60607968288cb4cd9b198b3[m
+Author: PanInf <77333045+PanInf@users.noreply.github.com>
+Date:   Thu Jan 22 12:41:21 2026 +0100
+
+    Create Program.cs
+    
+    Opis zadania
